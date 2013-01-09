@@ -7,6 +7,7 @@
         <version>3.0.0</version>
     </parent>
 
+    <groupId>org.hudsonci.plugins</groupId>
     <artifactId>mantis</artifactId>
     <version>0.25-h-1-SNAPSHOT</version>
     <packaging>hpi</packaging>
