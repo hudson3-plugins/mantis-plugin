@@ -9,7 +9,7 @@
 
     <groupId>org.hudsonci.plugins</groupId>
     <artifactId>mantis</artifactId>
-    <version>0.25-h-1-SNAPSHOT</version>
+    <version>0.25-h-1</version>
     <packaging>hpi</packaging>
     <name>Mantis plugin</name>
     <description>
